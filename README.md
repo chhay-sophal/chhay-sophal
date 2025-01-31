@@ -85,12 +85,13 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
 
 ---
 
-## 🌍 Interests
-
+## 🌍 Interests  
 When I'm not coding, you can find me exploring:  
-- 🍎 Apple products and tech innovations  
-- 🤖 Artificial Intelligence and Data Science  
-- 📸 Photography  
+
+🍎 **Apple products and tech innovations** – Always staying updated with the latest in tech.  
+🤖 **Artificial Intelligence and Data Science** – Fascinated by the future of AI and its applications.  
+📸 **Photography** – Capturing moments and telling stories through the lens.  
+🎬 **Movies** – A self-proclaimed movie nerd who loves analyzing plots and discovering hidden gems.  
 
 ---
 
